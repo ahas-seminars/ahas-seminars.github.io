@@ -1,11 +1,3 @@
 - title: Home
   url: "/"
   side: left
-
-- title: Speakers
-  url: "/speakers/"
-  side: left
-  
-- title: "Contact"
-  url: "/contact/"
-  side: left
