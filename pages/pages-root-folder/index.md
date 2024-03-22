@@ -39,3 +39,45 @@ Predicting health outcomes utilizing statistical models is becoming a more commo
 
 </div>
 
+<div id="speaker1" style="display: flex; flex-direction: column;">
+  
+<h3>April 12th, 2024</h3>
+
+<h3>TBA</h3>
+
+<h4>Jung Wun Lee, Biostatistics at Harvard T.H. Chan School of Public Health</h4>
+
+<h4>Abstract</h4>
+
+TBA
+
+</div>
+
+<div id="speaker1" style="display: flex; flex-direction: column;">
+  
+<h3>April 19th, 2024</h3>
+
+<h3>TBA</h3>
+
+<h4>Haim Bar,  Statistics at University of Connecticut</h4>
+
+<h4>Abstract</h4>
+
+TBA
+
+</div>
+
+<div id="speaker1" style="display: flex; flex-direction: column;">
+  
+<h3>April 26th, 2024</h3>
+
+<h3>TBA</h3>
+
+<h4>TBA</h4>
+
+<h4>Abstract</h4>
+
+TBA
+
+</div>
+
