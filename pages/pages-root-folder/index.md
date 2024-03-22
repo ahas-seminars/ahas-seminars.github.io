@@ -35,7 +35,7 @@ More than ever biostatistics and data science techniques are being leveraged to 
 
 <h4>Abstract</h4>
 
-TBD
+Predicting health outcomes utilizing statistical models is becoming a more commonplace notion in healthcare. However, all statistical models contain some degree of uncertainty in prediction. Many current modelling approaches involve creating thresholds to transform model outputs into binary decisions regarding risk (i.e., 1=high risk; 0=not high risk). These model outputs are typically point estimates of risk from the model and do account for uncertainty (or the possible error) behind this estimate. So, when a patient is declared high risk for a condition or event, are they really high risk? This presentation discusses sources of uncertainty in predictive models and possible methods to account for uncertainty. I also provide two case studies in context of major adverse cardiac events and suicide attempts. 
 
 </div>
 
