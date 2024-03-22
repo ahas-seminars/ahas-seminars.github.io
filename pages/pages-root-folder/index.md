@@ -20,14 +20,14 @@ More than ever biostatistics and data science techniques are being leveraged to 
 <p></p>
 <div id="speaker1" style="display: flex; flex-direction: column;">
 
-<h3>April 5th, 2024</h3>
+<h2>April 5th, 2024</h2>
 
 <h3>Are you sure about that? Accounting for uncertainty in predictive models</h3>
 
 <h4>Shane J Sacco, Statistics at University of Connecticut</h4>
 
 <p>
-<img class="img.float" src="/docs/sjsacco bio pic.jpg" width = 200px height = 250px/> 
+<img class=img.float src="/docs/sjsacco bio pic.jpg" width = 200px height = 250px/> 
 
   Dr. Shane J Sacco is a Postdoctoral Research Associate in the Department of Statistics at the University of Connecticut and a member at the Center for Population Health at the University of Connecticut Health Center. He received his PhD in Health Promotion Science at the University of Connecticut, with his dissertation focusing upon applied methods to improve nonlinear interaction testing in the social sciences. His current research aims to improve suicide risk prediction using transfer-learning techniques, clinical decision-making pipelines, and feature and outcome engineering.
 </p>
@@ -41,7 +41,7 @@ Predicting health outcomes utilizing statistical models is becoming a more commo
 
 <div id="speaker1" style="display: flex; flex-direction: column;">
   
-<h3>April 12th, 2024</h3>
+<h2>April 12th, 2024</h2>
 
 <h3>TBA</h3>
 
@@ -55,7 +55,7 @@ TBA
 
 <div id="speaker1" style="display: flex; flex-direction: column;">
   
-<h3>April 19th, 2024</h3>
+<h2>April 19th, 2024</h2>
 
 <h3>TBA</h3>
 
@@ -69,7 +69,7 @@ TBA
 
 <div id="speaker1" style="display: flex; flex-direction: column;">
   
-<h3>April 26th, 2024</h3>
+<h2>April 26th, 2024</h2>
 
 <h3>TBA</h3>
 
