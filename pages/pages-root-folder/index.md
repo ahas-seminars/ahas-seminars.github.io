@@ -28,13 +28,10 @@ More than ever biostatistics and data science techniques are being leveraged to 
 <h3>Are you sure about that? Accounting for uncertainty in predictive models</h3>
 
 <h4>Shane J Sacco, Statistics at University of Connecticut</h4>
-
-<p>
-  
+ 
 <img src="/docs/sjsacco bio pic.jpg" width = 200px height = 250px/> 
 
-</p>
-
+<p>
   Dr. Shane J Sacco is a Postdoctoral Research Associate in the Department of Statistics at the University of Connecticut and a member at the Center for Population Health at the University of Connecticut Health Center. He received his PhD in Health Promotion Science at the University of Connecticut, with his dissertation focusing upon applied methods to improve nonlinear interaction testing in the social sciences. His current research aims to improve suicide risk prediction using transfer-learning techniques, clinical decision-making pipelines, and feature and outcome engineering.
 </p>
 
