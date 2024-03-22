@@ -46,13 +46,22 @@ Predicting health outcomes utilizing statistical models is becoming a more commo
   
 <h2>April 12th, 2024</h2>
 
-<h3>TBA</h3>
+<h3>Sensitivity analysis for nonignorable missing values in blended analysis framework and its application to electronic health records</h3>
 
 <h4>Jung Wun Lee, Biostatistics at Harvard T.H. Chan School of Public Health</h4>
 
+<img src="/docs/xxxxx.jpg" width = 200px height = 250px/> 
+
+<p>
+
+Dr. Jung Wun Lee attained his Ph.D. in the Department of Statistics at the University of Connecticut, Storrs, CT, U.S. He is currently a postdoctoral fellow at the Department of Statistics at Harvard T.H. Chan School of Public Health. His research topics include finite mixture models, incomplete data analysis, novelty detection, and Bayesian inferences. His current research agenda focuses on how to deal with complex missing data problems in electronic health records.
+
+</p>
+
 <h4>Abstract</h4>
 
-TBA
+This paper establishes a series of sensitivity analyses to investigate the impact of missing values in the electronic health records (EHR) that are possibly missing not at random (MNAR). EHRs have gained tremendous interest due to their cost-effectiveness, but their employment for research involves numerous challenges, such as selection bias due to missing data. The blended analysis has been suggested to overcome such challenges, which decomposes the data provenance into a sequence of sub-mechanisms and uses a combination of inverse-probability weighting (IPW) and multiple imputation (MI) under missing at random assumption (MAR). In this paper, we expand the blended analysis under the MNAR assumption and present a sensitivity analysis framework to investigate the effect of MNAR missing values on the analysis results. We illustrate the performance of my proposed framework via numerical studies and conclude with strategies for interpreting the results of sensitivity analyses. In addition, we present an application of our framework to the DURABLE data set, an EHR from an NIH-funded study examining long-term outcomes of patients who underwent bariatric surgery.
+
 
 </div>
 
