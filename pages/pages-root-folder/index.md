@@ -1,10 +1,13 @@
 ---
 layout: page-fullwidth
-title: "AHAS - Advancing Health through Advancing Statistics seminar series"
+title: ""
 header: no
 permalink: /index.html
 homepage: true
 ---
+
+<center><img src="/images/AHAS_logo.png" width=400 height=200/> </center>
+<h1>Seminar Series April 2024</h1>
 
 + **Dates/Times:** Fridays, April 5th, 2024 - April 26th, 2024, 10:30AM-11:45AM EST
 + **Location:** The series will be hybrid, with in-person sessions held in Philip Austin Bldg Room 313 at UConn Storrs, CT and all sessions broadcast live via Webex.
