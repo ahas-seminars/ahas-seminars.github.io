@@ -31,7 +31,7 @@ More than ever biostatistics and data science techniques are being leveraged to 
 
 <p>
   
-<img class=img.float src="/docs/sjsacco bio pic.jpg" width = 200px height = 250px/> 
+<img src="/docs/sjsacco bio pic.jpg" width = 200px height = 250px/> 
 
 </p>
 
