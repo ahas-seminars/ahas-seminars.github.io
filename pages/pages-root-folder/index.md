@@ -50,7 +50,7 @@ Predicting health outcomes utilizing statistical models is becoming a more commo
 
 <h4>Jung Wun Lee, Biostatistics at Harvard T.H. Chan School of Public Health</h4>
 
-<img src="/docs/xxxxx.jpg" width = 200px height = 250px/> 
+<img src="/docs/Lee bio pic.jpeg" width = 250px height = 250px/> 
 
 <p>
 
@@ -71,12 +71,6 @@ This paper establishes a series of sensitivity analyses to investigate the impac
 
 <h3>TBA</h3>
 
-<h4>Haim Bar,  Statistics at University of Connecticut</h4>
-
-<h4>Abstract</h4>
-
-TBA
-
 </div>
 
 <div id="speaker1" style="display: flex; flex-direction: column;">
@@ -84,12 +78,6 @@ TBA
 <h2>April 26th, 2024</h2>
 
 <h3>TBA</h3>
-
-<h4>TBA</h4>
-
-<h4>Abstract</h4>
-
-TBA
 
 </div>
 
