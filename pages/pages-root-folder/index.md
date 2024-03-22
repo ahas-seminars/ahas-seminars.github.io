@@ -6,7 +6,7 @@ permalink: /index.html
 homepage: true
 ---
 
-<center><img src="/images/AHAS_logo.png" width=400 height=200/> </center>
+<center><img src="/images/Slide2.PNG" width=400 height=200/> </center>
 <h1>Seminar Series April 2024</h1>
 
 + **Dates/Times:** Fridays, April 5th, 2024 - April 26th, 2024, 10:30AM-11:45AM EST
