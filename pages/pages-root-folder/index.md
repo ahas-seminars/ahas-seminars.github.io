@@ -17,7 +17,7 @@ This series is organized by Shane J Sacco and Kun Chen of the Department of Stat
 + discuss emerging biostatistics and data science methods to address health-related topics;
 + provide a platform to connect statisticians, data scientists, and researchers in the State of Connecticut and beyond that work on health-related topics. 
 
-More than ever biostatistics and data science techniques are being leveraged to help prevent and intervene with health conditions and diseases as well as to improve mental and physical health. In this seminar series, we present recent advancements in biostatistics and data science across a wide range of health topics, including but not limited to heart disease, suicide, and COVID. 
+More than ever biostatistics and data science techniques are being leveraged to help prevent and intervene with health conditions and diseases as well as to improve mental and physical health. In this seminar series, we present recent advancements in biostatistics and data science applying to a wide range of health topics, including but not limited to heart disease, suicide, and COVID. 
 
 <center><h1>Speakers</h1></center>
 <p></p>
