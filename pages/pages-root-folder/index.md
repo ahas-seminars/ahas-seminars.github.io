@@ -25,7 +25,7 @@ More than ever biostatistics and data science techniques are being leveraged to 
 
 <h2>April 5th, 2024</h2>
 
-<h3>Are you sure about that? Accounting for uncertainty in predictive models</h3>
+<h3>Are you sure about that? Accounting for uncertainty in predictive models deployed in healthcare settings</h3>
 
 <h4>Shane J Sacco, Statistics at University of Connecticut</h4>
  
