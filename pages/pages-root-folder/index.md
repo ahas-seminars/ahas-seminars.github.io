@@ -9,7 +9,6 @@ homepage: true
 <center><img src="/images/Slide2.PNG" width=400 height=200/> </center>
 <h1>Seminar Series</h1>
 
-+ **Dates/Times:** Fridays, 10:30AM-11:30AM EST
 + **Location:** The series will be hybrid, with in-person sessions held in Philip Austin Bldg Room 313 at UConn Storrs, CT and all sessions broadcast live via Webex.
 
 This series is organized by Shane J Sacco and Kun Chen of the Department of Statistics at UConn. We aim to 
@@ -24,7 +23,7 @@ More than ever biostatistics and data science techniques are being leveraged to 
 
 <div id="speaker1" style="display: flex; flex-direction: column;">
   
-<h2>April 12th, 2024</h2>
+<h2>April 12th, 2024: Friday, 10:00AM-11:00AM EST</h2>
 
 <h3>Sensitivity analysis for nonignorable missing values in blended analysis framework and its application to electronic health records</h3>
 
