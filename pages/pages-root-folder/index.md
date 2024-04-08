@@ -23,7 +23,7 @@ More than ever biostatistics and data science techniques are being leveraged to 
 
 <div id="speaker1" style="display: flex; flex-direction: column;">
   
-<h2>April 12th, 2024: Friday, 10:00AM-11:00AM EST</h2>
+<h2>April 12th, 2024: Friday, 10:00AM-10:50AM EDT</h2>
 
 <h3>Sensitivity analysis for nonignorable missing values in blended analysis framework and its application to electronic health records</h3>
 
@@ -44,17 +44,33 @@ This paper establishes a series of sensitivity analyses to investigate the impac
 
 </div>
 
-<div id="speaker1" style="display: flex; flex-direction: column;">
+<div id="speaker2" style="display: flex; flex-direction: column;">
   
-<h2>April 19th, 2024</h2>
+<h2>April 19th, 2024: Friday, 10:30-11:30AM EDT</h2>
 
-<h3>TBA</h3>
+<h3>Quantile Regression Modelling via Location and Scale Mixtures of Normal Distributions</h3>
+
+<h4>Haim Bar, Statistics at the University of Connecticut</h4>
+
+<img src="/docs/Haim-Bar.jpg" width = 250px height = 250px/> 
+
+<p>
+
+Dr. Haim Bar received his Ph.D. in statistics at Cornell University in 2012 (Dissertation Topic: "Parallel Testing, and Variable Selection - a Mixture-Model Approach with Applications in Biostatistics". Advisors: James Booth (Chair), Martin T. Wells, Robert L. Strawderman). He received his M.Sc. in statistics in 2010 (Cornell University) and an M.Sc. in computer science in 2002 (Yale University). He received his bachelor degree in mathematics (Cum Laude) in 1993, at the Hebrew University in Jerusalem.
+His professional interests include statistical modeling, shrinkage estimation, high throughput applications in biology (e.g., genomics), Bayesian statistics, variable selection, and machine learning.
+From 1995 to 1997, he was with Motorola, Israel, as a computer programmer in the Wireless Access Systems Division. From 1997 until 2003 he worked for MicroPatent, LLC, where he held the position of Director of Software Development. In 2003 he moved to Ithaca, NY, and worked as a Principal Scientist at ATC-NY.
+
+</p>
+
+<h4>Abstract</h4>
+
+We show that the estimating equations for quantile regression can be solved using a simple EM algorithm in which the M-step is computed via weighted least squares, with weights computed at the E-step as the expectation of independent generalized inverse-Gaussian variables. We compute the variance-covariance matrix for the quantile regression coefficients using a kernel density estimator that results in more stable standard errors than those produced by existing software. A natural modification of the EM algorithm that involves fitting a linear mixed model at the M-step extends the methodology to mixed effects quantile regression models. In this case, the fitting method can be justified as a generalized alternating minimization algorithm. Obtaining quantile regression estimates via the weighted least squares method enables model diagnostic techniques similar to the ones used in the linear regression setting.
 
 </div>
 
-<div id="speaker1" style="display: flex; flex-direction: column;">
+<div id="speaker3" style="display: flex; flex-direction: column;">
   
-<h2>April 26th, 2024</h2>
+<h2>April 26th, 2024: Friday, 10:30-11:30AM EDT</h2>
 
 <h3>Are you sure about that? Accounting for uncertainty in predictive models deployed in healthcare settings</h3>
 
