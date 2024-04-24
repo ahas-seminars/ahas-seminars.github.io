@@ -25,7 +25,7 @@ More than ever biostatistics and data science techniques are being leveraged to 
 
 <div id="speaker3" style="display: flex; flex-direction: column;">
   
-<h2>April 26th, 2024: Friday, 10:30-11:30AM EDT</h2>
+<h2>April 26th, 2024: Friday, 10:30-11:30AM EDT, AUST ROOM 202</h2>
 
 <h3>Are you sure about that? Accounting for uncertainty in predictive models deployed in healthcare settings</h3>
 
@@ -90,9 +90,6 @@ From 1995 to 1997, he was with Motorola, Israel, as a computer programmer in the
 <h4>Abstract</h4>
 
 We show that the estimating equations for quantile regression can be solved using a simple EM algorithm in which the M-step is computed via weighted least squares, with weights computed at the E-step as the expectation of independent generalized inverse-Gaussian variables. We compute the variance-covariance matrix for the quantile regression coefficients using a kernel density estimator that results in more stable standard errors than those produced by existing software. A natural modification of the EM algorithm that involves fitting a linear mixed model at the M-step extends the methodology to mixed effects quantile regression models. In this case, the fitting method can be justified as a generalized alternating minimization algorithm. Obtaining quantile regression estimates via the weighted least squares method enables model diagnostic techniques similar to the ones used in the linear regression setting.
-
-</div>
-
 
 </div>
 
